@@ -1,2 +1,2 @@
 # moire
-Lightweight CSS microframework written in SASs
+Lightweight CSS microframework written in SASS
